@@ -1,13 +1,18 @@
-<center>  
-<font size="6"> POVANA Update 2025 </font>  
+
+title:
+<center>
+<font size="5"> POVANA Update 2025 </font>
 </center>
 ================
-<center>  
-<font size="4"> Abdullah Mamun </font>  
+author:
+<center>
+<font size="4"> Abdullah Mamun </font>
 </center>
-<center>  
-<font size="4"> 2025-03-21 </font>  
+date:
+<center>
+<font size="4"> 2025-03-21 </font>
 </center>
+
 
 <br>
 
@@ -56,8 +61,6 @@ research interest is processed and populated into various tables. Our
 goal is to get a consistent and reliable POVANA database that can be fed
 into MIRAGRODEP or other household modeling works.
 
-<br>
-
 <font size="4">
 <center>
 Figure 1: Data processing steps in POVANA
@@ -66,9 +69,7 @@ Figure 1: Data processing steps in POVANA
 </font>
 
 <center>
-
 <img src="POVANA_Data_Processing.png" style="width:75.0%" />
-
 </center>
 
 In the above flow chart, POVANA data as processed in R, contains several
@@ -152,8 +153,6 @@ updated with the current resources in 2025. A total of 14 countries
 (indicated by ‘Yes’) are proposed here. Selection of countries is done
 considering geographical coverage, country size and income groups.
 
-<br>
-
 <font size="4">
 <center>
 Table 1: List of countries
@@ -161,7 +160,8 @@ Table 1: List of countries
 </font>
 <center>
 
-<img src="Table1_Countries.png" style="width:75.0%" /> </br>
+<img src="./Documentation/Table1_Countries.png" style="width:100.0%" />
+</br>
 
 </center>
 
