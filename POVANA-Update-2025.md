@@ -1,9 +1,9 @@
+------------------------------------------------------------------------
 
 title:
 <center>
 <font size="5"> POVANA Update 2025 </font>
 </center>
-================
 author:
 <center>
 <font size="4"> Abdullah Mamun </font>
@@ -13,6 +13,7 @@ date:
 <font size="4"> 2025-03-21 </font>
 </center>
 
+## output: github_document
 
 <br>
 
